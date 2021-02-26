@@ -1,14 +1,6 @@
 <h1 align='center'>Assalamualaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<a href="https://www.linkedin.com/in/chandra-abdul-fattah/">
-  <img align="left" alt="Chandra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/chandrabezzo">
-  <img align="left" alt="Chandra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=chandrabezzo.chandrabezzo)
-
-<br />
+<center>![](https://visitor-badge.glitch.me/badge?page_id=chandrabezzo.chandrabezzo)</center>
 
 Hai, I'm Chandra Abdul Fattah, a Mobile Developer which focuses on Flutter using Dart, Android using Kotlin, and iOS using Swift. I have experienced in Android Development using Kotlin and get [Google Certified Associate Android Developer](https://www.credential.net/191f18bd-c590-4128-9513-018759b8bad0). I also have experienced in Flutter and often share my experiences about Flutter technology in several communities, github repository, or Linkedin.
 
