@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align='center'>Assalamualaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <a href="https://www.linkedin.com/in/chandra-abdul-fattah/">
   <img align="left" alt="Chandra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm Chandra Abdul Fattah, a mobile app developer experienced from Bandung, Indonesia.
+Hai, I'm Chandra Abdul Fattah, a Mobile Developer which focuses on Flutter using Dart, Android using Kotlin, and iOS using Swift. I have experienced in Android Development using Kotlin and get [Google Certified Associate Android Developer](https://www.credential.net/191f18bd-c590-4128-9513-018759b8bad0). I also have experienced in Flutter and often share my experiences about Flutter technology in several communities, github repository, or Linkedin.
 
 - 👨 💻 I’m currently working on [PT. Citraraya Nusatama](https://www.google.com/maps/place/PT+Docotel+Teknologi+Bandung+(Branch+%232)/@-6.8509897,107.5944117,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68e69af35c50eb:0x2ec6a575beed0397!8m2!3d-6.850995!4d107.5966004) as Mobile Developer.
 - 🌱 I’m currently learning all about mobile technology like Android Native using Kotlin, iOS Native using Swift, and Flutter using Dart.
@@ -18,6 +18,21 @@ Hi, I'm Chandra Abdul Fattah, a mobile app developer experienced from Bandung, I
 - 💬 Ask me about mobile app technology, I am happy to help
 - 📫 How to reach me: [chandrashibezzo@gmail.com](mailto://chandrashibezzo@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1s0-tMPcydURlke4R9yTqnGOWOFX6nnTW/view?usp=sharing)
+
+<p align='center'>
+<a href="https://twitter.com/BezzoKecil">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chandra-abdul-fattah/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://medium.com/@chandrabezzo">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:chandrashibezzo@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
 **Languages and Tools:**  
 
