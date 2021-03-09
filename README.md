@@ -6,7 +6,7 @@
 
 Hi, I'm Chandra Abdul Fattah, a Mobile Developer which focuses on Flutter using Dart, Android using Kotlin, and iOS using Swift. I have experienced in Android Development using Kotlin and get [Google Certified Associate Android Developer](https://www.credential.net/191f18bd-c590-4128-9513-018759b8bad0). I also have experienced in Flutter and often share my experiences about Flutter technology in several communities, github repository, or Linkedin.
 
-- 👨 💻 I’m currently working on [PT. Citraraya Nusatama](https://www.google.com/maps/place/PT+Docotel+Teknologi+Bandung+(Branch+%232)/@-6.8509897,107.5944117,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68e69af35c50eb:0x2ec6a575beed0397!8m2!3d-6.850995!4d107.5966004) as Mobile Developer.
+- 👨 💻 I’m currently working on [Evermos](https://evermos.com/home/) as Mobile Developer.
 - 🌱 I’m currently learning all about mobile technology like Android Native using Kotlin, iOS Native using Swift, and Flutter using Dart.
 - 👯 I’m looking to collaborate on mobile technology
 - 💬 Ask me about mobile app technology, I am happy to help
