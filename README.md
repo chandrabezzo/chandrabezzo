@@ -11,7 +11,6 @@ Hi, I'm Chandra Abdul Fattah, a Mobile Developer which focuses on Flutter using 
 - 👯 I’m looking to collaborate on mobile technology
 - 💬 Ask me about mobile app technology, I am happy to help
 - 📫 How to reach me: [chandrashibezzo@gmail.com](mailto://chandrashibezzo@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1s0-tMPcydURlke4R9yTqnGOWOFX6nnTW/view?usp=sharing)
 
 <p align='center'>
 <a href="https://twitter.com/BezzoKecil">
