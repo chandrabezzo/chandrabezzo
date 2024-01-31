@@ -13,7 +13,9 @@ Hi, I'm Chandra Abdul Fattah, a Mobile Developer which focuses on Flutter using 
 - 📫 How to reach me: [chandrashibezzo@gmail.com](mailto://chandrashibezzo@gmail.com)
 
 <p align='center'>
-https://indogithubers-badge.vercel.app/badge?username=chandrabezzo
+ <a href="https://indogithubers.vercel.app/">
+    <img src="https://indogithubers-badge.vercel.app/badge?username=chandrabezzo&style=plastic&color=blue" alt="IndoGitHubers Badge">
+  </a>
 </p>
 
 <p align='center'>
