@@ -13,6 +13,10 @@ Hi, I'm Chandra Abdul Fattah, a Mobile Developer which focuses on Flutter using 
 - 📫 How to reach me: [chandrashibezzo@gmail.com](mailto://chandrashibezzo@gmail.com)
 
 <p align='center'>
+https://indogithubers-badge.vercel.app/badge?username=chandrabezzo
+</p>
+
+<p align='center'>
 <a href="https://twitter.com/BezzoKecil">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
